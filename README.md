@@ -23,5 +23,5 @@
 
 ## 成果物
 
-- [x] 3D プリンター用 GCODE`./3dmodel/AKGO_roof_1.1000_raft.gcode`
-- [x] 3D モデルファイル`./3dmodel/roof_n_wall_1.1000.stl`
+- [x] [レーザー彫刻機用 g-code](./lightburn/42degrees.lbrn2)
+- [x] [3D モデルファイル](./rhinoceros/jigokugumi.3dm)
