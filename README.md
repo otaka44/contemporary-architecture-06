@@ -24,4 +24,4 @@
 ## 成果物
 
 - [x] [レーザー彫刻機用 g-code](./lightburn/42degrees.lbrn2)
-- [x] [3D モデルファイル](./rhinoceros/jigokugumi.3dm)
+- [x] [3D CADファイル](./rhinoceros/jigokugumi.3dm)
